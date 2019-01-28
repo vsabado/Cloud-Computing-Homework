@@ -8,10 +8,10 @@ Route A: When the program is ran, the number of times "map" has been invoked app
 Route B: This is the route I took having gained the understanding outline in route A. Hadoop actually has built in counters, so there's no real need to create a tracker. We simply need to access the values from the counters. 
 
 Below is the code that I used to access the value from the counter:
-Counters pn = job.getCounters();
-CounterGroup group = job.getCounters().getGroup("org.apache.hadoop.mapreduce.TaskCounter");
-Counter counter = group.findCounter("MAP_INPUT_RECORDS");
-long val = counter.getValue();
+Counters pn = job.getCounters(); //Grabs all the counters 
+CounterGroup group = job.getCounters().getGroup("org.apache.hadoop.mapreduce.TaskCounter"); //Grabs the group specified in the string
+Counter counter = group.findCounter("MAP_INPUT_RECORDS"); //Finds the counter within the group
+long val = counter.getValue(); //Grabs the value associated with the counter
 
 2) provide your solution given the input:
 
