@@ -1,0 +1,22 @@
+1) explain how to figure out how many time the map method is invoked in the map
+stage:
+
+There are actually two fairly simple ways of doing this, which I'll outline below:
+
+Route A: When the program is ran, the number of times "map" has been invoked appears in the UI under the group "Map-Reduce Framework" and labeled "Map input records".
+
+Route B: This is the route I took having gained the understanding outline in route A. Hadoop actually has built in counters, so there's no real need to create a tracker. We simply need to access the values from the counters. 
+
+Below is the code that I used to access the value from the counter:
+Counters pn = job.getCounters();
+CounterGroup group = job.getCounters().getGroup("org.apache.hadoop.mapreduce.TaskCounter");
+Counter counter = group.findCounter("MAP_INPUT_RECORDS");
+long val = counter.getValue();
+
+2) provide your solution given the input:
+
+Number of times map is invoked: 
+258
+
+Total word count: 
+9016
