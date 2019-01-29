@@ -35,6 +35,8 @@ public class WordCount {
                 context.write(word, one);
                 wordCount++; //Added to keep a running count of how many words
             }
+            word.set("1MapInvoked");
+            context.write(word, one);
         }
     }
 
