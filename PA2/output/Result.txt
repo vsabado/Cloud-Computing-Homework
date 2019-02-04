@@ -1,0 +1,4 @@
+Number of times map is invoked: 
+318
+Total word count: 
+9704
