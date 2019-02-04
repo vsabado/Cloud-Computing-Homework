@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c83ef88-13a2-495e-8d55-1756055bc5b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BigramCount/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigramCount/src/BigramCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BigramCount/src/BigramCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BigramCount/src/BigramCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BigramCount$TokenizerMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/BigramCount$TokenizerMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BigramCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/BigramCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BigramCount.jar" beforeDir="false" afterPath="$PROJECT_DIR$/BigramCount.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BigramCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/BigramCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/Result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/Result.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BigramCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="66" column="61" lean-forward="true" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
+            <state relative-caret-position="475">
+              <caret line="46" column="37" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="46" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,11 +90,13 @@
       <updated>1549229266525</updated>
       <workItem from="1549229274024" duration="3288000" />
       <workItem from="1549254171472" duration="728000" />
+      <workItem from="1549303400609" duration="277000" />
+      <workItem from="1549312267042" duration="837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4016000" />
+    <option name="totallyTimeSpent" value="5130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="904" extended-state="6" />
@@ -132,8 +138,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BigramCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="66" column="61" lean-forward="true" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
+        <state relative-caret-position="475">
+          <caret line="46" column="37" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="46" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

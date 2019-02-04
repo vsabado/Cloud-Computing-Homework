@@ -34,13 +34,13 @@ public class BigramCount {
             StringTokenizer itr = new StringTokenizer(value.toString());
 
             while (itr.hasMoreTokens()) {
-                System.out.println("Word before set: " + word);
+//                System.out.println("Word before set: " + word);
                 word.set(itr.nextToken());
-                System.out.println("Word after set: " + word);
+//                System.out.println("Word after set: " + word);
                 context.write(word, one);
-                wordCount++; //Added to keep a running count of how many words
+                wordCount++; //Keeps a running count of how many words
                 if(itr.hasMoreTokens()){
-                    bigramCount++;
+                    bigramCount++; //Keeps a running count of bigrams
                 }
             }
             word.set("1MapInvoked");
@@ -99,9 +99,7 @@ public class BigramCount {
 
         if (isComplete) {
             Counters pn = job.getCounters();
-            System.out.println("Counter size: " + pn.countCounters());
             CounterGroup group = job.getCounters().getGroup("org.apache.hadoop.mapreduce.TaskCounter");
-            System.out.println("Group Size: " + group.size());
             Counter counter = group.findCounter("MAP_INPUT_RECORDS");
             long val = counter.getValue();
             PrintStream ps = null;
@@ -114,6 +112,8 @@ public class BigramCount {
             ps.println(Integer.parseInt(String.valueOf(val)));
             ps.println("Total word count: ");
             ps.println(String.valueOf(wordCount));
+            ps.println("Total bigram count: ");
+            ps.println(String.valueOf(bigramCount));
             System.out.println("Total word count: " + wordCount);
             System.out.println("Total bigram count: " + bigramCount);
             System.out.println("Map invoked: " + String.valueOf(val));

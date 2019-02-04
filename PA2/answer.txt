@@ -1,29 +1,45 @@
-1) explain how to figure out how many time the map method is invoked in the map
-stage:
+1) explain how to count bigrams and figure out how many map tasks are launched in the
+map stage:
 
-There are actually two fairly simple ways of doing this, which I'll outline below:
+I counted bigrams by adding the following code within the while-loop in the map function.
 
-Route A: When the program is ran, the number of times "map" has been invoked appears in the UI under the group "Map-Reduce Framework" and labeled "Map input records".
+Added code:
 
-Route B: This is the route I took having gained the understanding outline in route A. Hadoop actually has built in counters, so there's no real need to create a tracker. We simply need to access the values from the counters. 
+if(itr.hasMoreTokens()){
+    bigramCount++; //Keeps a running count of bigrams
+ }
 
-Below is the code that I used to access the value from the counter:
-Counters pn = job.getCounters(); //Grabs all the counters 
-CounterGroup group = job.getCounters().getGroup("org.apache.hadoop.mapreduce.TaskCounter"); //Grabs the group specified in the string
-Counter counter = group.findCounter("MAP_INPUT_RECORDS"); //Finds the counter within the group
-long val = counter.getValue(); //Grabs the value associated with the counter
+In this loop:
 
-Route C: As per the recommendation of the TA and the professor, for every call made to the map function I added a key and value pair of <1MapInvoked, 1>. This allows the reducer to sum up all of the calls made to the function.
-
-Just under the while loop for the tokenization process, I added the following codes:
-
-word.set("1MapInvoked)";
+while (itr.hasMoreTokens()) {
+	word.set(itr.nextToken());
+	context.write(word, one);
+        wordCount++; //Keeps a running count of how many words
+        if(itr.hasMoreTokens()){
+        	bigramCount++; //Keeps a running count of bigrams
+        	}
+           }
+word.set("1MapInvoked");
 context.write(word, one);
 
-2) provide your solution given the input:
+While the iterator goes token by token, I used a boolean to check if there are still neighboring tokens remaining. If there are, it means that there exists a word after the current word and the bigramCount is incremented. If there is only one word in the line or we are on the last word, itr.hasMoreTokens() returns a false and bigram is not incremented. This essentially skips lines with single words. As for how many times "map" has been invoked, I used my previous solution from assignment 1:
+
+word.set("1MapInvoked");
+context.write(word, one);
+
+(2) provide your solution to the number of map tasks
+
+
+(Stored in result.txt inside output folder)
 
 Number of times map is invoked: 
-258
-
+318
 Total word count: 
-9016
+9704
+Total bigram count: 
+9386
+
+
+
+
+
