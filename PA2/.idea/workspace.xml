@@ -4,18 +4,14 @@
     <list default="true" id="7c83ef88-13a2-495e-8d55-1756055bc5b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../BigramCount/src/BigramCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BigramCount/src/BigramCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigramCount$IntSumReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/BigramCount$IntSumReducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigramCount$TokenizerMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/BigramCount$TokenizerMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigramCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/BigramCount.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BigramCount.jar" beforeDir="false" afterPath="$PROJECT_DIR$/BigramCount.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BigramCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/BigramCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input/file0" beforeDir="false" afterPath="$PROJECT_DIR$/input/file0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input/file1" beforeDir="false" afterPath="$PROJECT_DIR$/input/file1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/file2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inputBasic/file0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inputBasic/file1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputTemp/file0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputTemp/file1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputTemp/file2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/.part-r-00000.crc" beforeDir="false" afterPath="$PROJECT_DIR$/output/.part-r-00000.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/Result.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/part-r-00000" beforeDir="false" afterPath="$PROJECT_DIR$/output/part-r-00000" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BigramCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="100" column="78" selection-start-line="100" selection-start-column="78" selection-end-line="100" selection-end-column="78" />
+            <state relative-caret-position="171">
+              <caret line="34" column="55" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,11 +96,12 @@
       <workItem from="1549254171472" duration="728000" />
       <workItem from="1549303400609" duration="277000" />
       <workItem from="1549312267042" duration="7134000" />
+      <workItem from="1549344052154" duration="543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11427000" />
+    <option name="totallyTimeSpent" value="11970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="904" extended-state="6" />
@@ -146,8 +143,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BigramCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="100" column="78" selection-start-line="100" selection-start-column="78" selection-end-line="100" selection-end-column="78" />
+        <state relative-caret-position="171">
+          <caret line="34" column="55" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

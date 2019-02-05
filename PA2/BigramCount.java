@@ -36,7 +36,6 @@ public class BigramCount {
         }
 
         private Text word = new Text();
-        private Text bigram = new Text();
 
         public void map(Object key, Text value, Context context
         ) throws IOException, InterruptedException {
