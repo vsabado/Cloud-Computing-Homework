@@ -1,7 +1,6 @@
 
 import java.io.IOException;
 import java.util.StringTokenizer;
-
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
@@ -15,38 +14,50 @@ import org.apache.hadoop.util.GenericOptionsParser;
 import org.apache.hadoop.mapreduce.Counters;
 import org.apache.hadoop.mapreduce.Counter;
 import org.apache.hadoop.mapreduce.CounterGroup;
-
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
 import java.io.Writer;
 
 
 public class BigramCount {
-    private static int wordCount = 0;
+
     private static int bigramCount = 0;
+
+
+
     public static class TokenizerMapper
             extends Mapper<Object, Text, Text, IntWritable> {
         private final static IntWritable one = new IntWritable(1);
+
+        @Override
+        protected void setup(Context context
+        ) throws IOException, InterruptedException {
+            context.write(new Text("1Map task!"), one);
+        }
+
         private Text word = new Text();
+        private Text bigram = new Text();
 
         public void map(Object key, Text value, Context context
         ) throws IOException, InterruptedException {
             StringTokenizer itr = new StringTokenizer(value.toString());
 
+            String first = itr.nextToken();
+            String second = " ";
+
             while (itr.hasMoreTokens()) {
-//                System.out.println("Word before set: " + word);
-                word.set(itr.nextToken());
-//                System.out.println("Word after set: " + word);
+                bigramCount++;
+                context.write(new Text("1BigramCount"), one);
+                second = itr.nextToken();
+                word.set(first + " " + second);
+//                System.out.println("Word: " + word);
                 context.write(word, one);
-                wordCount++; //Keeps a running count of how many words
-                if(itr.hasMoreTokens()){
-                    bigramCount++; //Keeps a running count of bigrams
-                }
+                first = second;
             }
-            word.set("1MapInvoked");
-            context.write(word, one);
         }
     }
+
+
 
     public static class IntSumReducer
             extends Reducer<Text, IntWritable, Text, IntWritable> {
@@ -84,40 +95,10 @@ public class BigramCount {
 
         boolean isComplete = job.waitForCompletion(true);
 
-        Counters cn = job.getCounters();
-        for (CounterGroup group : cn) {
-            System.out.println("Counter Group: " + group.getDisplayName() + " (" + group.getName() + ")");
-            System.out.println("Number of counters in this group: " + group.size());
-
-            for (Counter counter : group) {
-                System.out.println(" - " + counter.getDisplayName() + ": " + counter.getName() + ": " + counter.getValue());
-            }
-
-        }
-
         System.out.println("Is it done? " + isComplete);
 
         if (isComplete) {
-            Counters pn = job.getCounters();
-            CounterGroup group = job.getCounters().getGroup("org.apache.hadoop.mapreduce.TaskCounter");
-            Counter counter = group.findCounter("MAP_INPUT_RECORDS");
-            long val = counter.getValue();
-            PrintStream ps = null;
-            try {
-                ps = new PrintStream("output/Result.txt");
-            } catch (FileNotFoundException e) {
-                e.printStackTrace();
-            }
-            ps.println("Number of times map is invoked: ");
-            ps.println(Integer.parseInt(String.valueOf(val)));
-            ps.println("Total word count: ");
-            ps.println(String.valueOf(wordCount));
-            ps.println("Total bigram count: ");
-            ps.println(String.valueOf(bigramCount));
-            System.out.println("Total word count: " + wordCount);
-            System.out.println("Total bigram count: " + bigramCount);
-            System.out.println("Map invoked: " + String.valueOf(val));
-//            System.exit(0);
+                     System.out.println("Total bigram count: " + bigramCount);
         }
     }
 }
