@@ -1,0 +1,17 @@
+In order to reverse the result, we need to manipulate the compareTo method.So the first step would be to create our own custom class that implements WritableComparable, which was provided in the form of wordpair.java. Fortunately, all of the methods for the interface had already been provided and I only had to make some simple changes. 
+
+Within compareTo method, which is what we want to be used in the sorting, I made a call to the Text class' own compareTo method. After receiving the int result, I inversed the sign by multiplying by -1. This was sufficient in reversing the order. Below is the full code for compareTo:
+
+public int compareTo(NewText other) {
+        int returnVal = this.word.compareTo(other.get());
+        return -1 * returnVal;
+    }
+
+The rest of the work was essentially setting up WordCount.java to now use the NewText class. Below were some of the key changes:
+
+private NewText word = new NewText();
+Mapper<Object, Text, NewText, IntWritable> //Replaced KeyOut with NewText
+Reducer<NewText,IntWritable,NewText,IntWritable> //Replaced both NewText
+job.setOutputKeyClass(NewText.class); //Set the new OutputKeyClass
+
+The rest of the changes just involved cleaning up wordpair.java to remove some unnecessary items like the neighbor. 
