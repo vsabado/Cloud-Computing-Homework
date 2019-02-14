@@ -1,1462 +1,1462 @@
-word = [yourselves]	1
-word = [yourself]	2
-word = [yours]	2
-word = [your]	41
-word = [youngest]	7
-word = [younger]	1
-word = [young]	3
-word = [you]	123
-word = [yet]	4
-word = [yesterday]	2
-word = [yes]	3
-word = [years]	2
-word = [year]	5
-word = [wriggle]	1
-word = [wretch]	1
-word = [would]	31
-word = [worthy]	1
-word = [worse]	2
-word = [worrisome]	1
-word = [worries]	1
-word = [worlds]	1
-word = [world]	5
-word = [work]	2
-word = [word]	2
-word = [woods]	7
-word = [woodcutter]	3
-word = [woodcarvers]	3
-word = [wood]	1
-word = [wont]	5
-word = [wonderfully]	1
-word = [woman]	2
-word = [wolf]	17
-word = [woke]	2
-word = [without]	3
-word = [with]	61
-word = [witch]	1
-word = [wishing]	1
-word = [wish]	1
-word = [winter]	3
-word = [wine]	1
-word = [window]	3
-word = [wind]	2
-word = [will]	62
-word = [wilderness]	3
-word = [wild]	1
-word = [wife]	6
-word = [wide]	2
-word = [wicked]	1
-word = [why]	2
-word = [whose]	1
-word = [whom]	1
-word = [whole]	4
-word = [whoever]	1
-word = [who]	18
-word = [white]	11
-word = [whiskers]	1
-word = [while]	5
-word = [which]	8
-word = [wherever]	1
-word = [where]	10
-word = [whenever]	1
-word = [when]	33
-word = [what]	19
-word = [were]	24
-word = [went]	27
-word = [well]	32
-word = [wedging]	1
-word = [wedding]	2
-word = [wearing]	1
-word = [we]	12
-word = [way]	11
-word = [watersplasher]	1
-word = [water]	9
-word = [watched]	1
-word = [watch]	2
-word = [wasnt]	1
-word = [washed]	1
-word = [washbasin]	2
-word = [was]	120
-word = [warned]	1
-word = [warmly]	1
-word = [warming]	1
-word = [warmer]	1
-word = [warmed]	2
-word = [warm]	7
-word = [wants]	4
-word = [wanting]	1
-word = [wanted]	11
-word = [want]	14
-word = [wall]	2
-word = [walking]	1
-word = [walked]	1
-word = [walk]	2
-word = [waking]	1
-word = [waited]	2
-word = [wait]	3
-word = [wager]	2
-word = [voice]	10
-word = [visit]	1
-word = [virgin]	1
-word = [villains]	1
-word = [villain]	2
-word = [vicinity]	1
-word = [vice]	1
-word = [very]	4
-word = [venture]	1
-word = [vain]	1
-word = [usual]	1
-word = [us]	1
-word = [upstairs]	1
-word = [upside]	1
-word = [upon]	3
-word = [up]	49
-word = [untrue]	1
-word = [until]	13
-word = [untied]	1
-word = [unlocked]	1
-word = [unlock]	1
-word = [unhappy]	1
-word = [unhappiness]	2
-word = [understand]	3
-word = [under]	9
-word = [uncommon]	1
-word = [ugly]	1
-word = [two]	11
-word = [twig]	1
-word = [twelve]	4
-word = [turned]	8
-word = [turn]	2
-word = [tumbles]	1
-word = [trying]	2
-word = [truth]	1
-word = [true]	2
-word = [troubles]	1
-word = [trim]	1
-word = [tricks]	1
-word = [trial]	1
-word = [trees]	1
-word = [tree]	9
-word = [treasures]	2
-word = [trap]	1
-word = [transformation]	1
-word = [town]	2
-word = [tower]	3
-word = [toward]	1
-word = [touched]	1
-word = [touch]	2
-word = [totally]	1
-word = [tormenting]	1
-word = [tore]	1
-word = [top]	4
-word = [took]	15
-word = [too]	7
-word = [tongue]	3
-word = [tomorrow]	2
-word = [told]	5
-word = [together]	6
-word = [toes]	1
-word = [today]	1
-word = [to]	244
-word = [tired]	2
-word = [tipped]	2
-word = [times]	2
-word = [time]	17
-word = [tightly]	1
-word = [tightened]	1
-word = [thus]	2
-word = [throw]	2
-word = [throughout]	1
-word = [through]	6
-word = [throat]	2
-word = [threw]	8
-word = [thresholds]	1
-word = [threeyear]	1
-word = [threes]	1
-word = [three]	7
-word = [threat]	1
-word = [thread]	1
-word = [thought]	17
-word = [though]	1
-word = [thorn]	1
-word = [this]	25
-word = [thirteenth]	2
-word = [thirteen]	1
-word = [thirsty]	1
-word = [third]	11
-word = [think]	6
-word = [things]	5
-word = [thief]	1
-word = [thicket]	1
-word = [thick]	2
-word = [they]	40
-word = [these]	6
-word = [there]	44
-word = [then]	21
-word = [themselves]	2
-word = [them]	35
-word = [their]	15
-word = [the]	542
-word = [that]	100
-word = [thanks]	1
-word = [than]	7
-word = [test]	1
-word = [terrified]	1
-word = [ten]	1
-word = [telling]	1
-word = [tell]	5
-word = [teach]	1
-word = [tastes]	1
-word = [taste]	1
-word = [tall]	1
-word = [talers]	5
-word = [take]	10
-word = [tailor]	1
-word = [table]	4
-word = [sword]	1
-word = [sweetened]	1
-word = [sweet]	1
-word = [swallowed]	4
-word = [surrounding]	1
-word = [surrounded]	2
-word = [sure]	2
-word = [supposed]	1
-word = [support]	1
-word = [supper]	1
-word = [sun]	5
-word = [summoned]	2
-word = [suffering]	1
-word = [suffered]	1
-word = [suffer]	1
-word = [suddenly]	3
-word = [such]	5
-word = [stupid]	4
-word = [stuck]	4
-word = [stubbornly]	1
-word = [struck]	3
-word = [stronger]	2
-word = [strong]	2
-word = [stroll]	1
-word = [stretched]	2
-word = [strangle]	1
-word = [straight]	1
-word = [stove]	1
-word = [stormed]	1
-word = [stories]	1
-word = [stored]	4
-word = [store]	1
-word = [stop]	3
-word = [stood]	7
-word = [stones]	8
-word = [stone]	2
-word = [stomach]	4
-word = [stirring]	1
-word = [stirred]	2
-word = [stir]	1
-word = [stilled]	1
-word = [still]	12
-word = [sticking]	1
-word = [steps]	6
-word = [stayed]	1
-word = [stay]	1
-word = [stars]	1
-word = [standing]	5
-word = [stake]	2
-word = [stairways]	1
-word = [stairs]	2
-word = [springing]	1
-word = [sprang]	2
-word = [sprained]	1
-word = [spots]	1
-word = [spooky]	1
-word = [spoken]	1
-word = [spoke]	1
-word = [split]	1
-word = [splendor]	1
-word = [spite]	1
-word = [spirits]	1
-word = [spirit]	1
-word = [spend]	1
-word = [speech]	1
-word = [speak]	2
-word = [sound]	5
-word = [sought]	1
-word = [sorry]	1
-word = [sorrow]	2
-word = [soon]	8
-word = [sons]	3
-word = [song]	1
-word = [son]	7
-word = [sometimes]	1
-word = [something]	9
-word = [someone]	7
-word = [some]	7
-word = [softened]	1
-word = [soft]	4
-word = [so]	24
-word = [snow]	1
-word = [snoring]	1
-word = [slept]	2
-word = [sleep]	6
-word = [slammed]	2
-word = [skulls]	2
-word = [skin]	1
-word = [skill]	2
-word = [sixth]	1
-word = [six]	4
-word = [sitting]	9
-word = [sits]	1
-word = [sit]	6
-word = [sinned]	1
-word = [sink]	1
-word = [single]	1
-word = [since]	1
-word = [sin]	4
-word = [sight]	2
-word = [sighed]	1
-word = [sides]	2
-word = [side]	4
-word = [shut]	4
-word = [shuddering]	1
-word = [shudder]	39
-word = [shreds]	1
-word = [showed]	4
-word = [show]	2
-word = [shouted]	10
-word = [should]	4
-word = [short]	2
-word = [shopkeeper]	1
-word = [shook]	2
-word = [shone]	2
-word = [shining]	1
-word = [shelter]	1
-word = [she]	84
-word = [shame]	1
-word = [shall]	8
-word = [sextons]	2
-word = [sexton]	6
-word = [sewed]	1
-word = [seventh]	1
-word = [seven]	6
-word = [set]	4
-word = [serving]	1
-word = [serve]	1
-word = [servant]	1
-word = [seriously]	1
-word = [sent]	1
-word = [send]	1
-word = [seized]	6
-word = [seen]	2
-word = [seems]	1
-word = [seeing]	1
-word = [see]	13
-word = [secretly]	1
-word = [second]	6
-word = [seated]	1
-word = [scream]	1
-word = [scolded]	1
-word = [scissors]	1
-word = [scarcely]	2
-word = [saying]	7
-word = [say]	5
-word = [saw]	16
-word = [savagely]	1
-word = [satisfying]	1
-word = [satisfied]	1
-word = [sat]	13
-word = [sank]	1
-word = [same]	1
-word = [said]	103
-word = [safely]	1
-word = [sadly]	1
-word = [saddened]	1
-word = [run]	2
-word = [rumored]	1
-word = [rumbles]	1
-word = [rubbing]	1
-word = [rubbed]	2
-word = [royal]	1
-word = [row]	1
-word = [round]	2
-word = [rough]	4
-word = [rope]	2
-word = [rooms]	1
-word = [room]	2
-word = [roofs]	1
-word = [rolled]	2
-word = [roll]	1
-word = [rode]	1
-word = [roaring]	1
-word = [road]	1
-word = [ripped]	1
-word = [ring]	4
-word = [right]	1
-word = [riches]	1
-word = [rich]	1
-word = [returned]	3
-word = [return]	4
-word = [rest]	4
-word = [respond]	1
-word = [rescued]	1
-word = [replied]	9
-word = [repents]	1
-word = [remember]	1
-word = [remained]	6
-word = [released]	2
-word = [release]	1
-word = [rejoiced]	3
-word = [regret]	1
-word = [refused]	1
-word = [refuse]	1
-word = [redhot]	1
-word = [redemption]	1
-word = [redeemed]	2
-word = [red]	1
-word = [recognize]	1
-word = [rear]	2
-word = [really]	1
-word = [reached]	2
-word = [rattled]	1
-word = [rang]	1
-word = [ran]	11
-word = [rained]	1
-word = [rain]	1
-word = [rags]	2
-word = [quite]	5
-word = [quietly]	1
-word = [quiet]	3
-word = [quickly]	2
-word = [queen]	11
-word = [puts]	1
-word = [put]	16
-word = [pushing]	1
-word = [pushed]	2
-word = [push]	1
-word = [pulled]	5
-word = [pull]	1
-word = [prompted]	1
-word = [promising]	1
-word = [promised]	4
-word = [promise]	2
-word = [probably]	1
-word = [print]	1
-word = [princesss]	1
-word = [princess]	6
-word = [prince]	3
-word = [pride]	1
-word = [preparations]	1
-word = [precious]	2
-word = [powerful]	1
-word = [pour]	1
-word = [pounding]	1
-word = [pounded]	3
-word = [pot]	7
-word = [possible]	2
-word = [poor]	9
-word = [pond]	1
-word = [pocket]	1
-word = [plop]	2
-word = [plip]	2
-word = [pleased]	1
-word = [plaything]	3
-word = [playmate]	1
-word = [playing]	2
-word = [played]	3
-word = [play]	3
-word = [plate]	3
-word = [plane]	1
-word = [placed]	1
-word = [place]	8
-word = [pity]	4
-word = [pillows]	2
-word = [piled]	1
-word = [pieces]	2
-word = [piece]	2
-word = [picked]	3
-word = [person]	2
-word = [persevere]	1
-word = [permitted]	1
-word = [people]	8
-word = [pennies]	1
-word = [peek]	1
-word = [pearls]	2
-word = [peacefully]	1
-word = [peace]	2
-word = [paws]	3
-word = [paw]	3
-word = [paunch]	1
-word = [path]	1
-word = [past]	1
-word = [passageways]	1
-word = [pass]	2
-word = [part]	2
-word = [pain]	2
-word = [paid]	1
-word = [paddled]	1
-word = [own]	5
-word = [over]	7
-word = [outside]	7
-word = [outfitted]	1
-word = [out]	51
-word = [ourselves]	2
-word = [our]	4
-word = [others]	5
-word = [other]	12
-word = [ostrich]	1
-word = [ordered]	1
-word = [order]	2
-word = [or]	11
-word = [opposite]	1
-word = [opportunity]	1
-word = [opportunities]	1
-word = [opening]	1
-word = [opened]	9
-word = [open]	16
-word = [onto]	4
-word = [only]	20
-word = [oneself]	1
-word = [ones]	1
-word = [one]	43
-word = [once]	9
-word = [on]	38
-word = [oldest]	4
-word = [olden]	1
-word = [old]	18
-word = [often]	1
-word = [off]	10
-word = [of]	94
-word = [odd]	2
-word = [obstinate]	1
-word = [obeyed]	2
-word = [obedient]	1
-word = [nuts]	2
-word = [nowhere]	1
-word = [now]	12
-word = [noticed]	1
-word = [nothing]	10
-word = [not]	73
-word = [nor]	5
-word = [noise]	2
-word = [nodded]	1
-word = [no]	29
-word = [nine]	1
-word = [nighttime]	1
-word = [nights]	2
-word = [night]	14
-word = [next]	14
-word = [newborn]	4
-word = [new]	1
-word = [never]	4
-word = [neither]	3
-word = [needy]	1
-word = [needle]	1
-word = [need]	2
-word = [necks]	1
-word = [neck]	1
-word = [nearby]	1
-word = [near]	1
-word = [names]	1
-word = [name]	8
-word = [nails]	1
-word = [myself]	1
-word = [my]	23
-word = [muttering]	2
-word = [must]	10
-word = [much]	9
-word = [moving]	3
-word = [moved]	1
-word = [move]	5
-word = [mouths]	1
-word = [mouth]	4
-word = [mouses]	1
-word = [mouse]	19
-word = [mountain]	1
-word = [motionless]	1
-word = [motioned]	1
-word = [mother]	14
-word = [most]	2
-word = [morning]	11
-word = [more]	9
-word = [monsters]	1
-word = [monster]	2
-word = [money]	3
-word = [moaning]	1
-word = [moaned]	1
-word = [misfortune]	1
-word = [misery]	1
-word = [miserably]	1
-word = [miserable]	1
-word = [minnows]	2
-word = [mine]	2
-word = [mind]	1
-word = [miller]	3
-word = [milk]	1
-word = [might]	2
-word = [midnight]	4
-word = [middle]	1
-word = [met]	1
-word = [meow]	1
-word = [men]	7
-word = [melted]	1
-word = [meddlesome]	1
-word = [meant]	1
-word = [means]	1
-word = [mean]	2
-word = [meal]	1
-word = [meadow]	2
-word = [me]	53
-word = [may]	7
-word = [matter]	3
-word = [masters]	1
-word = [master]	1
-word = [marveled]	1
-word = [marry]	1
-word = [married]	2
-word = [marriage]	1
-word = [marble]	1
-word = [many]	3
-word = [mans]	3
-word = [manage]	2
-word = [man]	20
-word = [making]	3
-word = [makes]	4
-word = [makers]	1
-word = [make]	7
-word = [main]	2
-word = [maiden]	1
-word = [magnificence]	1
-word = [made]	11
-word = [lying]	5
-word = [loves]	1
-word = [loved]	4
-word = [love]	3
-word = [loudly]	7
-word = [louder]	4
-word = [loud]	1
-word = [lost]	3
-word = [lose]	1
-word = [lord]	1
-word = [looking]	3
-word = [looked]	11
-word = [look]	4
-word = [longing]	2
-word = [longer]	6
-word = [long]	14
-word = [lock]	2
-word = [lives]	2
-word = [lived]	2
-word = [live]	2
-word = [little]	34
-word = [listeners]	1
-word = [listen]	2
-word = [lips]	1
-word = [linden]	1
-word = [like]	9
-word = [light]	3
-word = [lifted]	2
-word = [life]	3
-word = [lied]	1
-word = [lie]	1
-word = [lid]	2
-word = [licking]	1
-word = [licked]	1
-word = [lick]	1
-word = [lets]	2
-word = [let]	8
-word = [legs]	1
-word = [leg]	2
-word = [left]	1
-word = [led]	4
-word = [leaving]	1
-word = [leaves]	2
-word = [leave]	1
-word = [learning]	2
-word = [learned]	2
-word = [learn]	19
-word = [leap]	1
-word = [leaned]	1
-word = [lead]	1
-word = [lay]	10
-word = [laughing]	1
-word = [laughed]	2
-word = [latter]	2
-word = [lathe]	3
-word = [later]	6
-word = [late]	2
-word = [last]	3
-word = [larger]	1
-word = [large]	6
-word = [lap]	1
-word = [lamenting]	1
-word = [laid]	4
-word = [ladder]	1
-word = [known]	1
-word = [know]	15
-word = [knocked]	4
-word = [knock]	2
-word = [knife]	2
-word = [knew]	5
-word = [kitchen]	1
-word = [kings]	3
-word = [kingdom]	3
-word = [king]	27
-word = [kindly]	1
-word = [kind]	1
-word = [killed]	3
-word = [kids]	7
-word = [kid]	4
-word = [keys]	3
-word = [key]	2
-word = [keep]	6
-word = [justice]	1
-word = [just]	14
-word = [jumped]	5
-word = [joy]	3
-word = [journey]	2
-word = [jiggling]	1
-word = [itself]	2
-word = [its]	8
-word = [it]	119
-word = [is]	54
-word = [iron]	2
-word = [invited]	1
-word = [into]	40
-word = [intentions]	1
-word = [intelligent]	1
-word = [instead]	3
-word = [insisted]	1
-word = [inside]	11
-word = [innocent]	1
-word = [innkeepers]	1
-word = [innkeeper]	3
-word = [inn]	1
-word = [indeed]	2
-word = [in]	87
-word = [imprisoned]	1
-word = [immediately]	1
-word = [imagine]	2
-word = [if]	23
-word = [ice]	3
-word = [husband]	5
-word = [hurt]	1
-word = [hurriedly]	1
-word = [hurried]	2
-word = [hunting]	1
-word = [hunger]	1
-word = [hung]	2
-word = [human]	1
-word = [hugged]	1
-word = [howling]	1
-word = [however]	7
-word = [how]	28
-word = [house]	7
-word = [horses]	2
-word = [horse]	2
-word = [horribly]	1
-word = [hopped]	1
-word = [hope]	1
-word = [hop]	2
-word = [honest]	1
-word = [home]	13
-word = [hollow]	1
-word = [hole]	2
-word = [holding]	1
-word = [hold]	4
-word = [his]	80
-word = [himself]	13
-word = [him]	74
-word = [high]	1
-word = [hiding]	1
-word = [hideous]	1
-word = [hide]	1
-word = [hidden]	1
-word = [hesitated]	1
-word = [herself]	3
-word = [here]	14
-word = [her]	112
-word = [helped]	1
-word = [help]	5
-word = [held]	3
-word = [hedges]	1
-word = [heavy]	1
-word = [heavenly]	1
-word = [heaven]	9
-word = [heat]	1
-word = [heart]	10
-word = [heard]	11
-word = [heads]	1
-word = [head]	6
-word = [he]	156
-word = [having]	1
-word = [have]	34
-word = [haunted]	2
-word = [hasnt]	1
-word = [has]	19
-word = [harnessed]	1
-word = [hard]	1
-word = [happy]	4
-word = [happiness]	1
-word = [happens]	1
-word = [happened]	5
-word = [hanged]	1
-word = [hang]	1
-word = [handsome]	1
-word = [hands]	1
-word = [hand]	4
-word = [half]	5
-word = [hair]	5
-word = [had]	65
-word = [hacked]	1
-word = [guys]	1
-word = [guarded]	1
-word = [guard]	1
-word = [grows]	1
-word = [ground]	4
-word = [grief]	1
-word = [green]	2
-word = [greedy]	1
-word = [greed]	1
-word = [great]	11
-word = [gray]	1
-word = [grass]	1
-word = [gracious]	1
-word = [got]	6
-word = [goods]	1
-word = [goodfornothing]	1
-word = [good]	8
-word = [gone]	4
-word = [golden]	14
-word = [gold]	5
-word = [going]	4
-word = [godless]	1
-word = [godfather]	6
-word = [godchildren]	1
-word = [goat]	3
-word = [go]	22
-word = [gnawed]	1
-word = [glorious]	1
-word = [gladly]	1
-word = [glad]	1
-word = [given]	1
-word = [give]	8
-word = [girls]	1
-word = [girl]	9
-word = [giant]	1
-word = [ghosts]	1
-word = [ghost]	2
-word = [getting]	2
-word = [gets]	1
-word = [get]	9
-word = [gentle]	1
-word = [gave]	8
-word = [gathered]	1
-word = [garden]	1
-word = [game]	1
-word = [gallows]	2
-word = [further]	2
-word = [furiously]	1
-word = [fur]	1
-word = [fun]	2
-word = [full]	2
-word = [front]	2
-word = [from]	24
-word = [frog]	21
-word = [fro]	1
-word = [frightful]	1
-word = [frightened]	2
-word = [friendship]	1
-word = [friendly]	1
-word = [friend]	1
-word = [fresh]	2
-word = [freezing]	2
-word = [freeze]	1
-word = [freed]	1
-word = [fourth]	1
-word = [fourteen]	1
-word = [found]	7
-word = [forth]	6
-word = [forgot]	1
-word = [forgiven]	1
-word = [forge]	1
-word = [forest]	5
-word = [forced]	1
-word = [force]	2
-word = [forbidden]	9
-word = [for]	56
-word = [foot]	4
-word = [fools]	1
-word = [foolish]	1
-word = [food]	4
-word = [font]	1
-word = [following]	1
-word = [followed]	4
-word = [fly]	1
-word = [flowed]	1
-word = [flour]	1
-word = [flesh]	1
-word = [fled]	1
-word = [flames]	1
-word = [flamed]	1
-word = [fit]	1
-word = [fishes]	1
-word = [first]	2
-word = [fire]	24
-word = [fingers]	2
-word = [finger]	5
-word = [find]	2
-word = [finally]	4
-word = [filled]	4
-word = [fill]	1
-word = [figure]	2
-word = [fifty]	5
-word = [fifth]	1
-word = [fiery]	2
-word = [few]	5
-word = [fetched]	1
-word = [fetch]	2
-word = [felt]	4
-word = [fellows]	1
-word = [fellow]	2
-word = [fell]	16
-word = [feet]	2
-word = [feeling]	1
-word = [feed]	1
-word = [feathers]	1
-word = [fear]	2
-word = [favorite]	1
-word = [favor]	1
-word = [fathers]	1
-word = [father]	19
-word = [fat]	9
-word = [faster]	1
-word = [fast]	2
-word = [farther]	1
-word = [fared]	2
-word = [far]	2
-word = [fantasies]	1
-word = [family]	1
-word = [fallen]	2
-word = [fall]	4
-word = [faithful]	2
-word = [face]	3
-word = [eyes]	8
-word = [experienced]	1
-word = [examine]	1
-word = [evil]	3
-word = [everywhere]	1
-word = [everything]	8
-word = [every]	6
-word = [ever]	1
-word = [evening]	4
-word = [even]	6
-word = [entirely]	3
-word = [entire]	1
-word = [entering]	1
-word = [entered]	1
-word = [enough]	2
-word = [enjoyed]	1
-word = [enjoy]	2
-word = [end]	1
-word = [enchanted]	1
-word = [empty]	1
-word = [embers]	1
-word = [else]	1
-word = [either]	4
-word = [eight]	1
-word = [edges]	1
-word = [edge]	1
-word = [eats]	1
-word = [eating]	1
-word = [eaten]	4
-word = [eat]	6
-word = [easily]	4
-word = [ease]	1
-word = [earth]	2
-word = [earn]	3
-word = [each]	6
-word = [dwellings]	1
-word = [during]	2
-word = [drowned]	1
-word = [drove]	1
-word = [drop]	1
-word = [driver]	4
-word = [drive]	1
-word = [drink]	4
-word = [dressed]	1
-word = [drawn]	1
-word = [drank]	1
-word = [down]	41
-word = [dove]	1
-word = [dough]	2
-word = [doors]	2
-word = [door]	33
-word = [dont]	5
-word = [done]	4
-word = [dogs]	1
-word = [does]	4
-word = [do]	27
-word = [dive]	1
-word = [distance]	1
-word = [disobeyed]	1
-word = [disgusting]	2
-word = [disguises]	1
-word = [disappeared]	6
-word = [dimwit]	1
-word = [difficult]	1
-word = [died]	1
-word = [die]	3
-word = [didnt]	2
-word = [did]	27
-word = [devoured]	2
-word = [devil]	1
-word = [despise]	1
-word = [despair]	1
-word = [desire]	4
-word = [descended]	1
-word = [deny]	2
-word = [demanded]	1
-word = [delicious]	1
-word = [defend]	1
-word = [deer]	1
-word = [deep]	2
-word = [decided]	2
-word = [deceive]	1
-word = [death]	2
-word = [dearly]	1
-word = [dear]	12
-word = [dead]	14
-word = [daytime]	1
-word = [days]	3
-word = [daylight]	1
-word = [daybreak]	1
-word = [day]	16
-word = [daughters]	1
-word = [daughter]	7
-word = [dark]	4
-word = [dares]	1
-word = [dare]	2
-word = [danced]	1
-word = [dainty]	1
-word = [daily]	1
-word = [cut]	4
-word = [curled]	1
-word = [cupboard]	1
-word = [cup]	1
-word = [crying]	7
-word = [cry]	4
-word = [crown]	3
-word = [croaks]	1
-word = [croaked]	1
-word = [cried]	16
-word = [crept]	4
-word = [creeping]	2
-word = [creep]	1
-word = [cracking]	1
-word = [crack]	3
-word = [covers]	4
-word = [covered]	2
-word = [cousin]	6
-word = [court]	1
-word = [country]	1
-word = [councilors]	3
-word = [could]	34
-word = [corners]	1
-word = [corner]	7
-word = [coolly]	1
-word = [cool]	1
-word = [conversation]	1
-word = [contrary]	2
-word = [continued]	2
-word = [continue]	2
-word = [continually]	1
-word = [console]	1
-word = [consideration]	1
-word = [consented]	1
-word = [confesses]	1
-word = [confess]	4
-word = [condemned]	2
-word = [completely]	1
-word = [complained]	1
-word = [companion]	4
-word = [commotion]	1
-word = [commanded]	1
-word = [coming]	1
-word = [comes]	2
-word = [come]	16
-word = [cold]	8
-word = [coffin]	3
-word = [coat]	1
-word = [clothing]	1
-word = [clothes]	5
-word = [closer]	1
-word = [clock]	4
-word = [cloak]	1
-word = [climbed]	3
-word = [climb]	1
-word = [clever]	1
-word = [cleaned]	1
-word = [clean]	1
-word = [claws]	1
-word = [circulating]	1
-word = [churchyard]	1
-word = [church]	5
-word = [christening]	1
-word = [christened]	1
-word = [chopping]	1
-word = [chimney]	1
-word = [children]	10
-word = [child]	20
-word = [chests]	1
-word = [chatter]	1
-word = [charming]	1
-word = [chambermaid]	1
-word = [chalk]	1
-word = [chairs]	1
-word = [chair]	1
-word = [chains]	2
-word = [certain]	1
-word = [cellar]	1
-word = [celebrated]	1
-word = [causing]	2
-word = [caused]	1
-word = [caught]	3
-word = [cats]	4
-word = [catch]	2
-word = [cat]	19
-word = [castle]	13
-word = [case]	3
-word = [carvingknife]	1
-word = [cart]	4
-word = [carrying]	1
-word = [carry]	1
-word = [carried]	6
-word = [carriage]	5
-word = [careful]	3
-word = [care]	3
-word = [cards]	2
-word = [capturing]	1
-word = [cant]	2
-word = [cannot]	5
-word = [cannibal]	2
-word = [can]	18
-word = [came]	30
-word = [calling]	1
-word = [called]	9
-word = [by]	30
-word = [but]	56
-word = [business]	1
-word = [bursting]	1
-word = [burned]	1
-word = [burn]	4
-word = [burden]	1
-word = [bucketful]	2
-word = [brush]	1
-word = [brown]	1
-word = [brought]	11
-word = [brother]	2
-word = [brook]	1
-word = [broken]	2
-word = [broke]	1
-word = [bring]	4
-word = [brilliance]	3
-word = [bright]	1
-word = [breaking]	2
-word = [break]	2
-word = [bread]	5
-word = [branches]	1
-word = [braid]	1
-word = [boys]	1
-word = [boy]	37
-word = [bowling]	2
-word = [bowled]	1
-word = [bowl]	1
-word = [bound]	1
-word = [bought]	2
-word = [bottom]	2
-word = [both]	1
-word = [bore]	1
-word = [bones]	1
-word = [body]	1
-word = [bodies]	1
-word = [boast]	1
-word = [blowing]	1
-word = [blow]	3
-word = [blood]	1
-word = [blew]	2
-word = [bleated]	1
-word = [blacksmiths]	1
-word = [black]	7
-word = [bitterly]	2
-word = [bite]	1
-word = [birth]	1
-word = [big]	2
-word = [better]	3
-word = [beside]	1
-word = [berries]	1
-word = [bent]	1
-word = [beneath]	4
-word = [benches]	1
-word = [bench]	5
-word = [below]	2
-word = [belongs]	2
-word = [belly]	1
-word = [bell]	4
-word = [believed]	1
-word = [believe]	2
-word = [behold]	1
-word = [behind]	4
-word = [beginning]	1
-word = [begged]	1
-word = [began]	12
-word = [before]	10
-word = [been]	11
-word = [bedroom]	1
-word = [bed]	13
-word = [become]	1
-word = [because]	9
-word = [became]	5
-word = [beautiful]	13
-word = [beat]	1
-word = [beasts]	1
-word = [bearded]	1
-word = [beard]	3
-word = [be]	41
-word = [bar]	1
-word = [baptismal]	1
-word = [bands]	3
-word = [balls]	1
-word = [ball]	9
-word = [baker]	2
-word = [back]	18
-word = [ax]	3
-word = [awoke]	3
-word = [away]	18
-word = [aware]	1
-word = [avail]	1
-word = [attention]	1
-word = [ate]	3
-word = [at]	33
-word = [astonished]	2
-word = [asleep]	9
-word = [asking]	1
-word = [asked]	16
-word = [ask]	2
-word = [aside]	2
-word = [ashamed]	1
-word = [as]	54
-word = [arrived]	2
-word = [around]	12
-word = [arms]	4
-word = [arm]	1
-word = [are]	33
-word = [approaching]	2
-word = [appetite]	1
-word = [appeared]	3
-word = [apostle]	1
-word = [apart]	3
-word = [anything]	6
-word = [anyone]	1
-word = [anymore]	1
-word = [any]	1
-word = [anvils]	1
-word = [anvil]	2
-word = [answered]	18
-word = [answer]	5
-word = [another]	2
-word = [animal]	1
-word = [angry]	4
-word = [angels]	6
-word = [and]	363
-word = [an]	9
-word = [amount]	1
-word = [among]	1
-word = [amazement]	2
-word = [am]	18
-word = [always]	6
-word = [altar]	1
-word = [also]	1
-word = [already]	2
-word = [along]	3
-word = [alone]	4
-word = [almanac]	1
-word = [allowed]	2
-word = [all]	36
-word = [alive]	4
-word = [alarmed]	1
-word = [air]	2
-word = [ahead]	1
-word = [agreed]	2
-word = [ago]	1
-word = [against]	3
-word = [again]	30
-word = [afterward]	3
-word = [after]	12
-word = [afraid]	3
-word = [advice]	1
-word = [ado]	1
-word = [actually]	1
-word = [acquaintance]	1
-word = [according]	1
-word = [accompanied]	1
-word = [accept]	1
-word = [abundance]	1
-word = [absence]	1
-word = [above]	1
-word = [about]	13
-word = [able]	3
-word = [a]	151
-word = [Your]	4
-word = [Youngest]	2
-word = [You]	30
-word = [Yes]	8
-word = [Wood]	1
-word = [With]	4
-word = [Will]	1
-word = [Why]	2
-word = [Whoever]	1
-word = [Who]	4
-word = [While]	1
-word = [Where]	2
-word = [When]	22
-word = [Whatever]	1
-word = [What]	16
-word = [Well]	4
-word = [We]	5
-word = [Wait]	4
-word = [Virgin]	17
-word = [Very]	1
-word = [Trinity]	1
-word = [Towards]	1
-word = [TopOff]	3
-word = [Too]	1
-word = [To]	5
-word = [Thus]	1
-word = [Those]	2
-word = [This]	5
-word = [They]	12
-word = [These]	1
-word = [There]	2
-word = [Then]	44
-word = [The]	79
-word = [That]	12
-word = [Taking]	1
-word = [Take]	3
-word = [Table]	1
-word = [Stop]	1
-word = [Sprinkle]	1
-word = [Speaking]	1
-word = [Speak]	1
-word = [Soon]	2
-word = [Some]	1
-word = [So]	11
-word = [Sit]	1
-word = [She]	34
-word = [See]	2
-word = [Rub]	1
-word = [Roots]	1
-word = [Princess]	1
-word = [Pick]	1
-word = [Our]	1
-word = [Otherwise]	1
-word = [Open]	5
-word = [One]	8
-word = [Once]	2
-word = [On]	2
-word = [Oh]	16
-word = [Of]	1
-word = [Now]	14
-word = [Nothing]	2
-word = [Not]	2
-word = [No]	12
-word = [Never]	1
-word = [Near]	1
-word = [My]	2
-word = [Mother]	2
-word = [More]	1
-word = [Money]	1
-word = [Meanwhile]	1
-word = [Mary]	15
-word = [Many]	1
-word = [Looking]	1
-word = [Look]	1
-word = [Listen]	2
-word = [Lift]	1
-word = [Let]	2
-word = [Learn]	1
-word = [Just]	5
-word = [Jesus]	1
-word = [Ive]	1
-word = [It]	17
-word = [Is]	4
-word = [Inside]	1
-word = [Indeed]	1
-word = [In]	8
-word = [Immediately]	2
-word = [Ill]	3
-word = [If]	25
-word = [Id]	1
-word = [I]	127
-word = [However]	5
-word = [How]	4
-word = [His]	2
-word = [Hey]	2
-word = [Here]	2
-word = [Her]	4
-word = [Heinrichs]	1
-word = [Heinrich]	4
-word = [Hearing]	1
-word = [He]	34
-word = [Have]	2
-word = [Has]	1
-word = [HalfGone]	3
-word = [Good]	2
-word = [God]	1
-word = [Go]	3
-word = [Getting]	1
-word = [Get]	2
-word = [Further]	1
-word = [From]	1
-word = [Frightened]	1
-word = [For]	1
-word = [Follow]	1
-word = [First]	3
-word = [Finally]	4
-word = [Filled]	1
-word = [Feeling]	2
-word = [Father]	1
-word = [Faithful]	2
-word = [Everything]	1
-word = [Each]	1
-word = [During]	1
-word = [Dont]	2
-word = [Did]	2
-word = [Dear]	2
-word = [CrumbThief]	1
-word = [Comrade]	1
-word = [Come]	4
-word = [Children]	1
-word = [By]	2
-word = [But]	24
-word = [Bring]	1
-word = [Before]	2
-word = [Because]	2
-word = [Be]	5
-word = [Baby]	1
-word = [Away]	1
-word = [Au]	1
-word = [At]	3
-word = [As]	7
-word = [Arriving]	1
-word = [Answer]	1
-word = [Another]	1
-word = [And]	7
-word = [An]	1
-word = [Although]	1
-word = [AllGone]	3
-word = [All]	3
-word = [Alas]	1
-word = [Aha]	1
-word = [Afterward]	1
-word = [After]	6
-word = [About]	1
-word = [A]	10
+yourselves	1
+yourself	2
+yours	2
+your	41
+youngest	7
+younger	1
+young	3
+you	123
+yet	4
+yesterday	2
+yes	3
+years	2
+year	5
+wriggle	1
+wretch	1
+would	31
+worthy	1
+worse	2
+worrisome	1
+worries	1
+worlds	1
+world	5
+work	2
+word	2
+woods	7
+woodcutter	3
+woodcarvers	3
+wood	1
+wont	5
+wonderfully	1
+woman	2
+wolf	17
+woke	2
+without	3
+with	61
+witch	1
+wishing	1
+wish	1
+winter	3
+wine	1
+window	3
+wind	2
+will	62
+wilderness	3
+wild	1
+wife	6
+wide	2
+wicked	1
+why	2
+whose	1
+whom	1
+whole	4
+whoever	1
+who	18
+white	11
+whiskers	1
+while	5
+which	8
+wherever	1
+where	10
+whenever	1
+when	33
+what	19
+were	24
+went	27
+well	32
+wedging	1
+wedding	2
+wearing	1
+we	12
+way	11
+watersplasher	1
+water	9
+watched	1
+watch	2
+wasnt	1
+washed	1
+washbasin	2
+was	120
+warned	1
+warmly	1
+warming	1
+warmer	1
+warmed	2
+warm	7
+wants	4
+wanting	1
+wanted	11
+want	14
+wall	2
+walking	1
+walked	1
+walk	2
+waking	1
+waited	2
+wait	3
+wager	2
+voice	10
+visit	1
+virgin	1
+villains	1
+villain	2
+vicinity	1
+vice	1
+very	4
+venture	1
+vain	1
+usual	1
+us	1
+upstairs	1
+upside	1
+upon	3
+up	49
+untrue	1
+until	13
+untied	1
+unlocked	1
+unlock	1
+unhappy	1
+unhappiness	2
+understand	3
+under	9
+uncommon	1
+ugly	1
+two	11
+twig	1
+twelve	4
+turned	8
+turn	2
+tumbles	1
+trying	2
+truth	1
+true	2
+troubles	1
+trim	1
+tricks	1
+trial	1
+trees	1
+tree	9
+treasures	2
+trap	1
+transformation	1
+town	2
+tower	3
+toward	1
+touched	1
+touch	2
+totally	1
+tormenting	1
+tore	1
+top	4
+took	15
+too	7
+tongue	3
+tomorrow	2
+told	5
+together	6
+toes	1
+today	1
+to	244
+tired	2
+tipped	2
+times	2
+time	17
+tightly	1
+tightened	1
+thus	2
+throw	2
+throughout	1
+through	6
+throat	2
+threw	8
+thresholds	1
+threeyear	1
+threes	1
+three	7
+threat	1
+thread	1
+thought	17
+though	1
+thorn	1
+this	25
+thirteenth	2
+thirteen	1
+thirsty	1
+third	11
+think	6
+things	5
+thief	1
+thicket	1
+thick	2
+they	40
+these	6
+there	44
+then	21
+themselves	2
+them	35
+their	15
+the	542
+that	100
+thanks	1
+than	7
+test	1
+terrified	1
+ten	1
+telling	1
+tell	5
+teach	1
+tastes	1
+taste	1
+tall	1
+talers	5
+take	10
+tailor	1
+table	4
+sword	1
+sweetened	1
+sweet	1
+swallowed	4
+surrounding	1
+surrounded	2
+sure	2
+supposed	1
+support	1
+supper	1
+sun	5
+summoned	2
+suffering	1
+suffered	1
+suffer	1
+suddenly	3
+such	5
+stupid	4
+stuck	4
+stubbornly	1
+struck	3
+stronger	2
+strong	2
+stroll	1
+stretched	2
+strangle	1
+straight	1
+stove	1
+stormed	1
+stories	1
+stored	4
+store	1
+stop	3
+stood	7
+stones	8
+stone	2
+stomach	4
+stirring	1
+stirred	2
+stir	1
+stilled	1
+still	12
+sticking	1
+steps	6
+stayed	1
+stay	1
+stars	1
+standing	5
+stake	2
+stairways	1
+stairs	2
+springing	1
+sprang	2
+sprained	1
+spots	1
+spooky	1
+spoken	1
+spoke	1
+split	1
+splendor	1
+spite	1
+spirits	1
+spirit	1
+spend	1
+speech	1
+speak	2
+sound	5
+sought	1
+sorry	1
+sorrow	2
+soon	8
+sons	3
+song	1
+son	7
+sometimes	1
+something	9
+someone	7
+some	7
+softened	1
+soft	4
+so	24
+snow	1
+snoring	1
+slept	2
+sleep	6
+slammed	2
+skulls	2
+skin	1
+skill	2
+sixth	1
+six	4
+sitting	9
+sits	1
+sit	6
+sinned	1
+sink	1
+single	1
+since	1
+sin	4
+sight	2
+sighed	1
+sides	2
+side	4
+shut	4
+shuddering	1
+shudder	39
+shreds	1
+showed	4
+show	2
+shouted	10
+should	4
+short	2
+shopkeeper	1
+shook	2
+shone	2
+shining	1
+shelter	1
+she	84
+shame	1
+shall	8
+sextons	2
+sexton	6
+sewed	1
+seventh	1
+seven	6
+set	4
+serving	1
+serve	1
+servant	1
+seriously	1
+sent	1
+send	1
+seized	6
+seen	2
+seems	1
+seeing	1
+see	13
+secretly	1
+second	6
+seated	1
+scream	1
+scolded	1
+scissors	1
+scarcely	2
+saying	7
+say	5
+saw	16
+savagely	1
+satisfying	1
+satisfied	1
+sat	13
+sank	1
+same	1
+said	103
+safely	1
+sadly	1
+saddened	1
+run	2
+rumored	1
+rumbles	1
+rubbing	1
+rubbed	2
+royal	1
+row	1
+round	2
+rough	4
+rope	2
+rooms	1
+room	2
+roofs	1
+rolled	2
+roll	1
+rode	1
+roaring	1
+road	1
+ripped	1
+ring	4
+right	1
+riches	1
+rich	1
+returned	3
+return	4
+rest	4
+respond	1
+rescued	1
+replied	9
+repents	1
+remember	1
+remained	6
+released	2
+release	1
+rejoiced	3
+regret	1
+refused	1
+refuse	1
+redhot	1
+redemption	1
+redeemed	2
+red	1
+recognize	1
+rear	2
+really	1
+reached	2
+rattled	1
+rang	1
+ran	11
+rained	1
+rain	1
+rags	2
+quite	5
+quietly	1
+quiet	3
+quickly	2
+queen	11
+puts	1
+put	16
+pushing	1
+pushed	2
+push	1
+pulled	5
+pull	1
+prompted	1
+promising	1
+promised	4
+promise	2
+probably	1
+print	1
+princesss	1
+princess	6
+prince	3
+pride	1
+preparations	1
+precious	2
+powerful	1
+pour	1
+pounding	1
+pounded	3
+pot	7
+possible	2
+poor	9
+pond	1
+pocket	1
+plop	2
+plip	2
+pleased	1
+plaything	3
+playmate	1
+playing	2
+played	3
+play	3
+plate	3
+plane	1
+placed	1
+place	8
+pity	4
+pillows	2
+piled	1
+pieces	2
+piece	2
+picked	3
+person	2
+persevere	1
+permitted	1
+people	8
+pennies	1
+peek	1
+pearls	2
+peacefully	1
+peace	2
+paws	3
+paw	3
+paunch	1
+path	1
+past	1
+passageways	1
+pass	2
+part	2
+pain	2
+paid	1
+paddled	1
+own	5
+over	7
+outside	7
+outfitted	1
+out	51
+ourselves	2
+our	4
+others	5
+other	12
+ostrich	1
+ordered	1
+order	2
+or	11
+opposite	1
+opportunity	1
+opportunities	1
+opening	1
+opened	9
+open	16
+onto	4
+only	20
+oneself	1
+ones	1
+one	43
+once	9
+on	38
+oldest	4
+olden	1
+old	18
+often	1
+off	10
+of	94
+odd	2
+obstinate	1
+obeyed	2
+obedient	1
+nuts	2
+nowhere	1
+now	12
+noticed	1
+nothing	10
+not	73
+nor	5
+noise	2
+nodded	1
+no	29
+nine	1
+nighttime	1
+nights	2
+night	14
+next	14
+newborn	4
+new	1
+never	4
+neither	3
+needy	1
+needle	1
+need	2
+necks	1
+neck	1
+nearby	1
+near	1
+names	1
+name	8
+nails	1
+myself	1
+my	23
+muttering	2
+must	10
+much	9
+moving	3
+moved	1
+move	5
+mouths	1
+mouth	4
+mouses	1
+mouse	19
+mountain	1
+motionless	1
+motioned	1
+mother	14
+most	2
+morning	11
+more	9
+monsters	1
+monster	2
+money	3
+moaning	1
+moaned	1
+misfortune	1
+misery	1
+miserably	1
+miserable	1
+minnows	2
+mine	2
+mind	1
+miller	3
+milk	1
+might	2
+midnight	4
+middle	1
+met	1
+meow	1
+men	7
+melted	1
+meddlesome	1
+meant	1
+means	1
+mean	2
+meal	1
+meadow	2
+me	53
+may	7
+matter	3
+masters	1
+master	1
+marveled	1
+marry	1
+married	2
+marriage	1
+marble	1
+many	3
+mans	3
+manage	2
+man	20
+making	3
+makes	4
+makers	1
+make	7
+main	2
+maiden	1
+magnificence	1
+made	11
+lying	5
+loves	1
+loved	4
+love	3
+loudly	7
+louder	4
+loud	1
+lost	3
+lose	1
+lord	1
+looking	3
+looked	11
+look	4
+longing	2
+longer	6
+long	14
+lock	2
+lives	2
+lived	2
+live	2
+little	34
+listeners	1
+listen	2
+lips	1
+linden	1
+like	9
+light	3
+lifted	2
+life	3
+lied	1
+lie	1
+lid	2
+licking	1
+licked	1
+lick	1
+lets	2
+let	8
+legs	1
+leg	2
+left	1
+led	4
+leaving	1
+leaves	2
+leave	1
+learning	2
+learned	2
+learn	19
+leap	1
+leaned	1
+lead	1
+lay	10
+laughing	1
+laughed	2
+latter	2
+lathe	3
+later	6
+late	2
+last	3
+larger	1
+large	6
+lap	1
+lamenting	1
+laid	4
+ladder	1
+known	1
+know	15
+knocked	4
+knock	2
+knife	2
+knew	5
+kitchen	1
+kings	3
+kingdom	3
+king	27
+kindly	1
+kind	1
+killed	3
+kids	7
+kid	4
+keys	3
+key	2
+keep	6
+justice	1
+just	14
+jumped	5
+joy	3
+journey	2
+jiggling	1
+itself	2
+its	8
+it	119
+is	54
+iron	2
+invited	1
+into	40
+intentions	1
+intelligent	1
+instead	3
+insisted	1
+inside	11
+innocent	1
+innkeepers	1
+innkeeper	3
+inn	1
+indeed	2
+in	87
+imprisoned	1
+immediately	1
+imagine	2
+if	23
+ice	3
+husband	5
+hurt	1
+hurriedly	1
+hurried	2
+hunting	1
+hunger	1
+hung	2
+human	1
+hugged	1
+howling	1
+however	7
+how	28
+house	7
+horses	2
+horse	2
+horribly	1
+hopped	1
+hope	1
+hop	2
+honest	1
+home	13
+hollow	1
+hole	2
+holding	1
+hold	4
+his	80
+himself	13
+him	74
+high	1
+hiding	1
+hideous	1
+hide	1
+hidden	1
+hesitated	1
+herself	3
+here	14
+her	112
+helped	1
+help	5
+held	3
+hedges	1
+heavy	1
+heavenly	1
+heaven	9
+heat	1
+heart	10
+heard	11
+heads	1
+head	6
+he	156
+having	1
+have	34
+haunted	2
+hasnt	1
+has	19
+harnessed	1
+hard	1
+happy	4
+happiness	1
+happens	1
+happened	5
+hanged	1
+hang	1
+handsome	1
+hands	1
+hand	4
+half	5
+hair	5
+had	65
+hacked	1
+guys	1
+guarded	1
+guard	1
+grows	1
+ground	4
+grief	1
+green	2
+greedy	1
+greed	1
+great	11
+gray	1
+grass	1
+gracious	1
+got	6
+goods	1
+goodfornothing	1
+good	8
+gone	4
+golden	14
+gold	5
+going	4
+godless	1
+godfather	6
+godchildren	1
+goat	3
+go	22
+gnawed	1
+glorious	1
+gladly	1
+glad	1
+given	1
+give	8
+girls	1
+girl	9
+giant	1
+ghosts	1
+ghost	2
+getting	2
+gets	1
+get	9
+gentle	1
+gave	8
+gathered	1
+garden	1
+game	1
+gallows	2
+further	2
+furiously	1
+fur	1
+fun	2
+full	2
+front	2
+from	24
+frog	21
+fro	1
+frightful	1
+frightened	2
+friendship	1
+friendly	1
+friend	1
+fresh	2
+freezing	2
+freeze	1
+freed	1
+fourth	1
+fourteen	1
+found	7
+forth	6
+forgot	1
+forgiven	1
+forge	1
+forest	5
+forced	1
+force	2
+forbidden	9
+for	56
+foot	4
+fools	1
+foolish	1
+food	4
+font	1
+following	1
+followed	4
+fly	1
+flowed	1
+flour	1
+flesh	1
+fled	1
+flames	1
+flamed	1
+fit	1
+fishes	1
+first	2
+fire	24
+fingers	2
+finger	5
+find	2
+finally	4
+filled	4
+fill	1
+figure	2
+fifty	5
+fifth	1
+fiery	2
+few	5
+fetched	1
+fetch	2
+felt	4
+fellows	1
+fellow	2
+fell	16
+feet	2
+feeling	1
+feed	1
+feathers	1
+fear	2
+favorite	1
+favor	1
+fathers	1
+father	19
+fat	9
+faster	1
+fast	2
+farther	1
+fared	2
+far	2
+fantasies	1
+family	1
+fallen	2
+fall	4
+faithful	2
+face	3
+eyes	8
+experienced	1
+examine	1
+evil	3
+everywhere	1
+everything	8
+every	6
+ever	1
+evening	4
+even	6
+entirely	3
+entire	1
+entering	1
+entered	1
+enough	2
+enjoyed	1
+enjoy	2
+end	1
+enchanted	1
+empty	1
+embers	1
+else	1
+either	4
+eight	1
+edges	1
+edge	1
+eats	1
+eating	1
+eaten	4
+eat	6
+easily	4
+ease	1
+earth	2
+earn	3
+each	6
+dwellings	1
+during	2
+drowned	1
+drove	1
+drop	1
+driver	4
+drive	1
+drink	4
+dressed	1
+drawn	1
+drank	1
+down	41
+dove	1
+dough	2
+doors	2
+door	33
+dont	5
+done	4
+dogs	1
+does	4
+do	27
+dive	1
+distance	1
+disobeyed	1
+disgusting	2
+disguises	1
+disappeared	6
+dimwit	1
+difficult	1
+died	1
+die	3
+didnt	2
+did	27
+devoured	2
+devil	1
+despise	1
+despair	1
+desire	4
+descended	1
+deny	2
+demanded	1
+delicious	1
+defend	1
+deer	1
+deep	2
+decided	2
+deceive	1
+death	2
+dearly	1
+dear	12
+dead	14
+daytime	1
+days	3
+daylight	1
+daybreak	1
+day	16
+daughters	1
+daughter	7
+dark	4
+dares	1
+dare	2
+danced	1
+dainty	1
+daily	1
+cut	4
+curled	1
+cupboard	1
+cup	1
+crying	7
+cry	4
+crown	3
+croaks	1
+croaked	1
+cried	16
+crept	4
+creeping	2
+creep	1
+cracking	1
+crack	3
+covers	4
+covered	2
+cousin	6
+court	1
+country	1
+councilors	3
+could	34
+corners	1
+corner	7
+coolly	1
+cool	1
+conversation	1
+contrary	2
+continued	2
+continue	2
+continually	1
+console	1
+consideration	1
+consented	1
+confesses	1
+confess	4
+condemned	2
+completely	1
+complained	1
+companion	4
+commotion	1
+commanded	1
+coming	1
+comes	2
+come	16
+cold	8
+coffin	3
+coat	1
+clothing	1
+clothes	5
+closer	1
+clock	4
+cloak	1
+climbed	3
+climb	1
+clever	1
+cleaned	1
+clean	1
+claws	1
+circulating	1
+churchyard	1
+church	5
+christening	1
+christened	1
+chopping	1
+chimney	1
+children	10
+child	20
+chests	1
+chatter	1
+charming	1
+chambermaid	1
+chalk	1
+chairs	1
+chair	1
+chains	2
+certain	1
+cellar	1
+celebrated	1
+causing	2
+caused	1
+caught	3
+cats	4
+catch	2
+cat	19
+castle	13
+case	3
+carvingknife	1
+cart	4
+carrying	1
+carry	1
+carried	6
+carriage	5
+careful	3
+care	3
+cards	2
+capturing	1
+cant	2
+cannot	5
+cannibal	2
+can	18
+came	30
+calling	1
+called	9
+by	30
+but	56
+business	1
+bursting	1
+burned	1
+burn	4
+burden	1
+bucketful	2
+brush	1
+brown	1
+brought	11
+brother	2
+brook	1
+broken	2
+broke	1
+bring	4
+brilliance	3
+bright	1
+breaking	2
+break	2
+bread	5
+branches	1
+braid	1
+boys	1
+boy	37
+bowling	2
+bowled	1
+bowl	1
+bound	1
+bought	2
+bottom	2
+both	1
+bore	1
+bones	1
+body	1
+bodies	1
+boast	1
+blowing	1
+blow	3
+blood	1
+blew	2
+bleated	1
+blacksmiths	1
+black	7
+bitterly	2
+bite	1
+birth	1
+big	2
+better	3
+beside	1
+berries	1
+bent	1
+beneath	4
+benches	1
+bench	5
+below	2
+belongs	2
+belly	1
+bell	4
+believed	1
+believe	2
+behold	1
+behind	4
+beginning	1
+begged	1
+began	12
+before	10
+been	11
+bedroom	1
+bed	13
+become	1
+because	9
+became	5
+beautiful	13
+beat	1
+beasts	1
+bearded	1
+beard	3
+be	41
+bar	1
+baptismal	1
+bands	3
+balls	1
+ball	9
+baker	2
+back	18
+ax	3
+awoke	3
+away	18
+aware	1
+avail	1
+attention	1
+ate	3
+at	33
+astonished	2
+asleep	9
+asking	1
+asked	16
+ask	2
+aside	2
+ashamed	1
+as	54
+arrived	2
+around	12
+arms	4
+arm	1
+are	33
+approaching	2
+appetite	1
+appeared	3
+apostle	1
+apart	3
+anything	6
+anyone	1
+anymore	1
+any	1
+anvils	1
+anvil	2
+answered	18
+answer	5
+another	2
+animal	1
+angry	4
+angels	6
+and	363
+an	9
+amount	1
+among	1
+amazement	2
+am	18
+always	6
+altar	1
+also	1
+already	2
+along	3
+alone	4
+almanac	1
+allowed	2
+all	36
+alive	4
+alarmed	1
+air	2
+ahead	1
+agreed	2
+ago	1
+against	3
+again	30
+afterward	3
+after	12
+afraid	3
+advice	1
+ado	1
+actually	1
+acquaintance	1
+according	1
+accompanied	1
+accept	1
+abundance	1
+absence	1
+above	1
+about	13
+able	3
+a	151
+Your	4
+Youngest	2
+You	30
+Yes	8
+Wood	1
+With	4
+Will	1
+Why	2
+Whoever	1
+Who	4
+While	1
+Where	2
+When	22
+Whatever	1
+What	16
+Well	4
+We	5
+Wait	4
+Virgin	17
+Very	1
+Trinity	1
+Towards	1
+TopOff	3
+Too	1
+To	5
+Thus	1
+Those	2
+This	5
+They	12
+These	1
+There	2
+Then	44
+The	79
+That	12
+Taking	1
+Take	3
+Table	1
+Stop	1
+Sprinkle	1
+Speaking	1
+Speak	1
+Soon	2
+Some	1
+So	11
+Sit	1
+She	34
+See	2
+Rub	1
+Roots	1
+Princess	1
+Pick	1
+Our	1
+Otherwise	1
+Open	5
+One	8
+Once	2
+On	2
+Oh	16
+Of	1
+Now	14
+Nothing	2
+Not	2
+No	12
+Never	1
+Near	1
+My	2
+Mother	2
+More	1
+Money	1
+Meanwhile	1
+Mary	15
+Many	1
+Looking	1
+Look	1
+Listen	2
+Lift	1
+Let	2
+Learn	1
+Just	5
+Jesus	1
+Ive	1
+It	17
+Is	4
+Inside	1
+Indeed	1
+In	8
+Immediately	2
+Ill	3
+If	25
+Id	1
+I	127
+However	5
+How	4
+His	2
+Hey	2
+Here	2
+Her	4
+Heinrichs	1
+Heinrich	4
+Hearing	1
+He	34
+Have	2
+Has	1
+HalfGone	3
+Good	2
+God	1
+Go	3
+Getting	1
+Get	2
+Further	1
+From	1
+Frightened	1
+For	1
+Follow	1
+First	3
+Finally	4
+Filled	1
+Feeling	2
+Father	1
+Faithful	2
+Everything	1
+Each	1
+During	1
+Dont	2
+Did	2
+Dear	2
+CrumbThief	1
+Comrade	1
+Come	4
+Children	1
+By	2
+But	24
+Bring	1
+Before	2
+Because	2
+Be	5
+Baby	1
+Away	1
+Au	1
+At	3
+As	7
+Arriving	1
+Answer	1
+Another	1
+And	7
+An	1
+Although	1
+AllGone	3
+All	3
+Alas	1
+Aha	1
+Afterward	1
+After	6
+About	1
+A	10

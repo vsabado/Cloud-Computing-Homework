@@ -23,8 +23,7 @@ public class NewText implements Writable, WritableComparable<NewText> {
 
     @Override
     public int compareTo(NewText other) {
-        int returnVal = this.word.compareTo(other.get());
-        return -1 * returnVal;
+        return -1 * this.word.compareTo(other.get());
     }
 
     public static NewText read(DataInput in) throws IOException {
@@ -45,7 +44,7 @@ public class NewText implements Writable, WritableComparable<NewText> {
 
     @Override
     public String toString() {
-        return "word = [" + word + "]";
+        return "" + word;
     }
 
     @Override
