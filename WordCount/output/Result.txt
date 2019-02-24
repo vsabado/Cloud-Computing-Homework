@@ -1,0 +1,4 @@
+Number of times map is invoked: 
+0
+Total word count: 
+10
