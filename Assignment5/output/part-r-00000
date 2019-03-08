@@ -1,0 +1,9 @@
+{word=[echo] neighbor=[file0]}	1
+{word=[game] neighbor=[file1]}	1
+{word=[me] neighbor=[file0]}	1
+{word=[of] neighbor=[file0]}	1
+{word=[rainbow] neighbor=[file0]}	1
+{word=[skip] neighbor=[file0]}	2
+{word=[the] neighbor=[file0]}	1
+{word=[the] neighbor=[file1]}	1
+{word=[waiting] neighbor=[file1]}	1
