@@ -118,6 +118,7 @@ public class Homework7 {
 
 
     public static void writeOutput(ArrayList<Activity> a, int bestVal, ArrayList<Integer> solutions) throws FileNotFoundException {
+        ArrayList<Integer> orderID = new ArrayList<>();
         PrintStream ps = null;
         try {
             ps = new PrintStream("output.txt");
@@ -132,7 +133,14 @@ public class Homework7 {
         System.out.println("Best combination: ");
         for (int i = 0; i < a.size(); i++) {
             a.get(i).printValues();
-            ps.print(a.get(i).getId() + " ");
+            //ps.print(a.get(i).getId() + " ");
+            orderID.add(a.get(i).getId());
+        }
+
+        //To ensure that the ID is in increasing order
+        Collections.sort(orderID);
+        for (int i = 0; i < a.size(); i++) {
+            ps.print(orderID.get(i) + " ");
         }
 
         int count = 0;
@@ -151,7 +159,6 @@ public class Homework7 {
             System.out.println("IT HAS MULTIPLE SOLUTIONS");
             ps.println("IT HAS MULTIPLE SOLUTIONS");
         }
-
         System.out.println("Created and stored result into output.txt");
     }
 
