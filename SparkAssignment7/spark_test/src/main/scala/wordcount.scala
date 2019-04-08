@@ -6,7 +6,7 @@ object WordCount {
       val conf = new SparkConf().setAppName("Word Count")
       // Make a SparkContext
       val sc = new SparkContext(conf)
-      //Use SparkContext to read the specified file "input.txt"
+      //Store content of "input.txt" into SparkContext
       val input =  sc.textFile("input.txt")
       //Tokenize the words using " " as the delimiter
       val words = input.flatMap(line => line.split(" "))
