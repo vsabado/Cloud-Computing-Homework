@@ -66,13 +66,15 @@ public class GraphSearch extends Configured implements Tool {
 
             Node node = new Node(value.toString());
 
+            int count = 0;
             // For each GRAY node, emit each of the edges as a new node (also GRAY)
-            if (node.getColor() == Node.Color.GRAY) {
+            if (node.getColor() == Node.Color.GRAY || node.getColor() == Node.Color.BLACK) {
                 for (int v : node.getEdges()) {
                     Node vnode = new Node(v);
-                    vnode.setDistance(node.getDistance() + 1);
+                    vnode.setDistance(node.getDistance() + node.getWeights().get(count));
                     vnode.setColor(Node.Color.GRAY);
                     output.collect(new IntWritable(vnode.getId()), vnode.getLine());
+                    count++;
                 }
                 // We're done with this node now, color it BLACK
                 node.setColor(Node.Color.BLACK);

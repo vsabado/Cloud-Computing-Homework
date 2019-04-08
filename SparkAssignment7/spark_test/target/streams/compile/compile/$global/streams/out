@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/vladpc/spark_test/src/main/scala/SimpleApp.scala:14:13: not found: value $numAs[0m
+[0m[[0m[31merror[0m] [0m[0m    println($numAs)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
