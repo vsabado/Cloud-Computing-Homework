@@ -2,55 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a692d6b-4ce0-4774-a963-b16c2952aa9c" name="Default Changelist" comment="Minor changes">
-      <change beforePath="$PROJECT_DIR$/../Assignment5/input/file0" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/input/file0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/input/file1" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/input/file1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/inputttttttt/file0" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/inputttttttt/file0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/inputttttttt/file1" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/inputttttttt/file1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/inputttttttt/file2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/inputttttttt/file3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/output/.part-r-00000.crc" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/output/.part-r-00000.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/output/part-r-00000" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/output/part-r-00000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/input/file0" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/input/file0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/input/file1" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/input/file1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/invertedindex$IntSumReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/invertedindex$IntSumReducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/invertedindex$Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/invertedindex$Map.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/invertedindex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/invertedindex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/invertedindex.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/invertedindex.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/output/.part-r-00000.crc" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/output/.part-r-00000.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/output/.part-r-00001.crc" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/output/.part-r-00001.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/output/.part-r-00002.crc" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/output/.part-r-00002.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/output/part-r-00000" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/output/part-r-00000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/output/part-r-00001" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/output/part-r-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment5/src/main/java/output/part-r-00002" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/src/main/java/output/part-r-00002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework6BFS/src/GraphSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/input-graph/file0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/src/main/java/GraphSearch.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/src/main/java/GraphSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/src/main/java/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/src/main/java/build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hw6BFS/src/main/java/input-graph/file0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P6BFS/src/main/java/GraphSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P6BFS/src/main/java/GraphSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../relativefreq1/src/main/java/build.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/.part-r-00000.crc" beforeDir="false" afterPath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/.part-r-00000.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/.part-r-00001.crc" beforeDir="false" afterPath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/.part-r-00001.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/.part-r-00002.crc" beforeDir="false" afterPath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/.part-r-00002.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/part-r-00000" beforeDir="false" afterPath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/part-r-00000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/part-r-00001" beforeDir="false" afterPath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/part-r-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/part-r-00002" beforeDir="false" afterPath="$PROJECT_DIR$/../relativefreq1/src/main/java/output/part-r-00002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/relativefreq1$PairsRelativeOccurrenceMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/relativefreq1$PairsRelativeOccurrenceReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/relativefreq1$WordPairPartitioner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/relativefreq1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/relativefreq1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/relativefreq1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/relativefreq2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../relativefreq1/src/main/java/relativefreq2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/wordpair1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../relativefreq1/src/main/java/wordpair1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/default/spark_test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/default/spark_test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/default/spark_test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/default/spark_test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/classes/SimpleApp$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/classes/SimpleApp$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/classes/SimpleApp$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/classes/SimpleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/classes/WordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/classes/WordCount$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/classes/WordCount$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/classes/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/classes/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/simple-project_2.11-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/scala-2.11/simple-project_2.11-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/output" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/output" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/Homework7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
-              <caret line="121" column="30" lean-forward="true" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
+              <caret line="121" column="30" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Activity#0;class#Activity#0" />
@@ -112,6 +95,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554431005978" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,6 +138,7 @@
       <updated>1554402061978</updated>
       <workItem from="1554402071008" duration="23159000" />
       <workItem from="1554431450472" duration="1107000" />
+      <workItem from="1555880552612" duration="161000" />
     </task>
     <task id="LOCAL-00001" summary="Fully tested and working. Can be turned in">
       <created>1554422342847</created>
@@ -180,7 +165,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24266000" />
+    <option name="totallyTimeSpent" value="24427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="950" extended-state="6" />
@@ -195,7 +180,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22393365" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22393365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992891" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -274,7 +259,7 @@
     <entry file="file://$PROJECT_DIR$/src/Homework7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
-          <caret line="121" column="30" lean-forward="true" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
+          <caret line="121" column="30" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Activity#0;class#Activity#0" />

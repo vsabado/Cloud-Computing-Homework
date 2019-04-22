@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb7da569-6c2a-46e8-b30c-c38fd986e87e" name="Default Changelist" comment="Logic isn't perfect and can still be refined">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/pagerank.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkAssignment8/Spark/src/main/scala/pagerank.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework7Alg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework7Alg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/default/spark_test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/default/spark_test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/default/spark_test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/default/spark_test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-spark_test-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/classes/SimpleApp$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/classes/SimpleApp$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/classes/SimpleApp$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/classes/SimpleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/classes/WordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/classes/WordCount$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/classes/WordCount$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/classes/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/classes/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/simple-project_2.11-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/scala-2.11/simple-project_2.11-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkAssignment7/spark_test/target/streams/compile/packageBin/$global/streams/output" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/pagerank.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="42" column="10" selection-end-line="49" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/part-00000">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/SimpleApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/wordcount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/PageRank.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/PageRank (copy).scala" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/pagerank.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="446" />
+    <option name="height" value="941" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PageRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PageRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageRank" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PageRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PageRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PageRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PageRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageRank" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PageRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageRank" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555939903610" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.pagerank">
+    <configuration name="SimpleApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleApp" />
+      <module name="PageRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="WordCount" />
+      <module name="PageRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pagerank" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pagerank" />
+      <module name="PageRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pagerank2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pagerank2" />
+      <module name="PageRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.pagerank" />
+      <item itemvalue="Application.SimpleApp" />
+      <item itemvalue="Application.WordCount" />
+      <item itemvalue="Application.pagerank2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pagerank" />
+        <item itemvalue="Application.pagerank2" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.SimpleApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="PageRank" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="pagerank [file:/home/vladpc/Git%20Repositories/Cloud-Computing-Homework/Assignment8/PageRank/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="PageRank-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2119600836" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb7da569-6c2a-46e8-b30c-c38fd986e87e" name="Default Changelist" comment="" />
+      <created>1555880747303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555880747303</updated>
+      <workItem from="1555880755644" duration="2384000" />
+      <workItem from="1555887324016" duration="21657000" />
+      <workItem from="1555928296079" duration="11305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35346000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="950" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986508" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36966825" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992891" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32938388" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32938388" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Logic isn't perfect and can still be refined" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logic isn't perfect and can still be refined" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SimpleApp.scala" />
+    <entry file="file://$PROJECT_DIR$/output/part-00001" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/PageRank.sc" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/PageRankdy.scala" />
+    <entry file="file://$PROJECT_DIR$/ranks/part-00001" />
+    <entry file="file://$PROJECT_DIR$/ranks/part-00000" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/PageRank.scala" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.12/srcs/spark-core_2.12-2.4.0-sources.jar!/org/apache/spark/util/collection/AppendOnlyMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1460">
+          <caret line="149" column="12" selection-start-line="149" selection-start-column="12" selection-end-line="149" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.12/srcs/spark-core_2.12-2.4.0-sources.jar!/org/apache/spark/util/collection/ExternalSorter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="188" column="8" selection-start-line="188" selection-start-column="8" selection-end-line="188" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.12/srcs/spark-core_2.12-2.4.0-sources.jar!/org/apache/spark/util/collection/SizeTrackingAppendOnlyMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.12/srcs/spark-core_2.12-2.4.0-sources.jar!/org/apache/spark/util/collection/SizeTracker.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.12/srcs/spark-core_2.12-2.4.0-sources.jar!/org/apache/spark/util/SizeEstimator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.12/srcs/spark-core_2.12-2.4.0-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="649" column="4" selection-start-line="649" selection-start-column="4" selection-end-line="649" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.12/srcs/spark-core_2.12-2.4.0-sources.jar!/org/apache/spark/rdd/RDDOperationScope.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="135" column="8" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Properties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="378" selection-start-line="378" selection-end-line="378" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.12/srcs/spark-core_2.12-2.4.0-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="644" column="36" selection-start-line="644" selection-start-column="36" selection-end-line="644" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.12/srcs/spark-core_2.12-2.4.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="362" column="51" selection-start-line="362" selection-start-column="51" selection-end-line="362" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/part-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/pagerank.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="42" column="10" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
